@@ -1,1 +1,1 @@
-python HelloWorld.py
+worker: python HelloWorld.py
